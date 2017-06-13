@@ -1,0 +1,17 @@
+type/name/subscription_fee/one_min/one_mb/one_msg/free_min_outside/free_msg/free_mb/company
+
+individual more_traffic 20 5 1 2 60 50 4000
+individual more_calls 20 1 5 2 240 50 500
+individual mixed 30 3 3 3 60 50 300                                     
+
+corporate international_business 200 0 0 0 1200 600 16000 delloite
+corporate in_corporation_free 100 2 1 1 600 200 8000 evroopt
+corporate small_business 40 2 2 2 300 100 4000 kapitoshka
+
+
+12312 
+jdfhksjdnfrtgrggeggeg
+rggegreg 3123 12
+  312
+
+
