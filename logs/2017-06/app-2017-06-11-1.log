@@ -1,6 +1,6 @@
-2017-06-11 11:40:44 [main] ERROR TariffManager  line:41 - Company doesn't have a tariff with that parameters
-2017-06-11 11:40:44 [main] INFO  TariffManager  line:25 - 12
-2017-06-11 11:40:44 [main] INFO  TariffManager  line:37 - 
+2017-06-11 11:40:44 [main] ERROR TariffAction  line:41 - Company doesn't have a tariff with that parameters
+2017-06-11 11:40:44 [main] INFO  TariffAction  line:25 - 12
+2017-06-11 11:40:44 [main] INFO  TariffAction  line:37 -
 Tariff name: MORE_CALLS,
 minute price: 0,50,
 message price: 0,20,
@@ -12,9 +12,9 @@ included messages: 500,
 2017-06-11 11:42:19 [main] INFO  TariffDataParser  line:48 - [IN_CORPORATION_FREE, 1, 1, 1, 1, 1, 1, 1, NAME]
 2017-06-11 11:44:33 [main] ERROR TariffDataParser  line:24 - Invalid line in income data
 2017-06-11 11:44:33 [main] INFO  TariffDataParser  line:48 - [IN_CORPORATION_FREE, 1, 1, 1, 1, 1, 1, 1, NAME]
-2017-06-11 11:44:33 [main] ERROR TariffManager  line:41 - Company doesn't have a tariff with that parameters
-2017-06-11 11:44:33 [main] INFO  TariffManager  line:25 - 12
-2017-06-11 11:44:33 [main] INFO  TariffManager  line:37 - 
+2017-06-11 11:44:33 [main] ERROR TariffAction  line:41 - Company doesn't have a tariff with that parameters
+2017-06-11 11:44:33 [main] INFO  TariffAction  line:25 - 12
+2017-06-11 11:44:33 [main] INFO  TariffAction  line:37 -
 Tariff name: MORE_CALLS,
 minute price: 0,50,
 message price: 0,20,

@@ -1,3 +1,5 @@
+package by.kooks.mobile.entity;
+
 public class IndividualPerson {
     private AbstractMobileTariff tariff;
     private String number;

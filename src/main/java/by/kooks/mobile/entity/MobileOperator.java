@@ -1,3 +1,5 @@
+package by.kooks.mobile.entity;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -14,25 +16,13 @@ public class MobileOperator {
     }
     public MobileOperator(){}
 
-    public List<AbstractMobileTariff> getTariffs() {
-        return tariffs;
-    }
-
-    public List<IndividualPerson> getClients() {
-        return clients;
-    }
-
+    public List<IndividualPerson> getClients() {return clients;}
     public List<Company> getCompanies() {
         return companies;
     }
     public void addTariff(AbstractMobileTariff tariff){
         tariffs.add(tariff);
     }
-
-    public void removeTariff(AbstractMobileTariff tariff) {
-        tariffs.remove(tariff);
-    }
-
     public ArrayList<AbstractMobileTariff> getAllTariffs(){
         return tariffs;
     }

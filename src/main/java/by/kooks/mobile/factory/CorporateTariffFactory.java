@@ -1,13 +1,17 @@
+package by.kooks.mobile.factory;
+
+import by.kooks.mobile.entity.CorporateTariff;
+import by.kooks.mobile.entity.TariffType;
+
 public class CorporateTariffFactory extends TariffFactory<CorporateTariff>{
     private static CorporateTariffFactory factory = new CorporateTariffFactory();
     private CorporateTariffFactory(){}
-
     public static CorporateTariffFactory getInstance() {
         return factory;
     }
     public CorporateTariff createTariff(String line) {
-        String[] tariff = line.split("\\s");
-        TariffType tariffType = TariffType.stringToName(tariff[1]);
+        String[] tariff = line.split(" ");
+        TariffType tariffType = TariffType.valueOf(tariff[1].toUpperCase());
         int minutePrice = Integer.parseInt(tariff[2]);
         int messagePrice = Integer.parseInt(tariff[3]);
         int connectionPrice = Integer.parseInt(tariff[4]);

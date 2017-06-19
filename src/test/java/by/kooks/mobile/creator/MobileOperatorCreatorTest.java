@@ -1,7 +1,11 @@
+package by.kooks.mobile.creator;
+
+import by.kooks.mobile.entity.MobileOperator;
 import org.junit.Assert;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.junit.runners.Parameterized;
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collection;

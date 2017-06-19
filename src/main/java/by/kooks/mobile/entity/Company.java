@@ -1,3 +1,5 @@
+package by.kooks.mobile.entity;
+
 import java.util.ArrayList;
 import java.util.List;
 

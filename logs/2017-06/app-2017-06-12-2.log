@@ -1,6 +1,6 @@
-2017-06-12 12:15:42 [main] ERROR TariffManager  line:38 - There is no tariff with suitable parameters
-2017-06-12 12:15:42 [main] INFO  TariffManager  line:24 - 12
-2017-06-12 12:15:43 [main] INFO  TariffManager  line:34 - 
+2017-06-12 12:15:42 [main] ERROR TariffAction  line:38 - There is no tariff with suitable parameters
+2017-06-12 12:15:42 [main] INFO  TariffAction  line:24 - 12
+2017-06-12 12:15:43 [main] INFO  TariffAction  line:34 -
 Tariff name: MORE_CALLS,
 minute price: 0,50,
 message price: 0,20,
@@ -8,9 +8,9 @@ fee: 4,00,
 included minutes: 1000,
 included messages: 500,
 
-2017-06-12 12:16:05 [main] ERROR TariffManager  line:38 - There is no tariff with suitable parameters
-2017-06-12 12:16:05 [main] INFO  TariffManager  line:24 - 12
-2017-06-12 12:16:05 [main] INFO  TariffManager  line:34 - 
+2017-06-12 12:16:05 [main] ERROR TariffAction  line:38 - There is no tariff with suitable parameters
+2017-06-12 12:16:05 [main] INFO  TariffAction  line:24 - 12
+2017-06-12 12:16:05 [main] INFO  TariffAction  line:34 -
 Tariff name: MORE_CALLS,
 minute price: 0,50,
 message price: 0,20,
@@ -18,9 +18,9 @@ fee: 4,00,
 included minutes: 1000,
 included messages: 500,
 
-2017-06-12 12:17:47 [main] ERROR TariffManager  line:38 - There is no tariff with suitable parameters
-2017-06-12 12:17:47 [main] INFO  TariffManager  line:24 - 15
-2017-06-12 12:17:47 [main] INFO  TariffManager  line:34 - 
+2017-06-12 12:17:47 [main] ERROR TariffAction  line:38 - There is no tariff with suitable parameters
+2017-06-12 12:17:47 [main] INFO  TariffAction  line:24 - 15
+2017-06-12 12:17:47 [main] INFO  TariffAction  line:34 -
 Tariff name: MORE_CALLS,
 minute price: 0,50,
 message price: 0,20,
@@ -28,9 +28,9 @@ fee: 4,00,
 included minutes: 1000,
 included messages: 500,
 
-2017-06-12 12:28:09 [main] ERROR TariffManager  line:38 - There is no tariff with suitable parameters
-2017-06-12 12:28:09 [main] INFO  TariffManager  line:24 - 15
-2017-06-12 12:28:09 [main] INFO  TariffManager  line:34 - 
+2017-06-12 12:28:09 [main] ERROR TariffAction  line:38 - There is no tariff with suitable parameters
+2017-06-12 12:28:09 [main] INFO  TariffAction  line:24 - 15
+2017-06-12 12:28:09 [main] INFO  TariffAction  line:34 -
 Tariff name: MORE_CALLS,
 minute price: 0,50,
 message price: 0,20,
@@ -38,9 +38,9 @@ fee: 4,00,
 included minutes: 1000,
 included messages: 500,
 
-2017-06-12 12:29:44 [main] ERROR TariffManager  line:38 - There is no tariff with suitable parameters
-2017-06-12 12:29:44 [main] INFO  TariffManager  line:24 - 15
-2017-06-12 12:29:44 [main] INFO  TariffManager  line:34 - 
+2017-06-12 12:29:44 [main] ERROR TariffAction  line:38 - There is no tariff with suitable parameters
+2017-06-12 12:29:44 [main] INFO  TariffAction  line:24 - 15
+2017-06-12 12:29:44 [main] INFO  TariffAction  line:34 -
 Tariff name: MORE_CALLS,
 minute price: 0,50,
 message price: 0,20,
@@ -48,9 +48,9 @@ fee: 4,00,
 included minutes: 1000,
 included messages: 500,
 
-2017-06-12 12:46:06 [main] ERROR TariffManager  line:38 - There is no tariff with suitable parameters
-2017-06-12 12:46:06 [main] INFO  TariffManager  line:24 - 15
-2017-06-12 12:46:07 [main] INFO  TariffManager  line:34 - 
+2017-06-12 12:46:06 [main] ERROR TariffAction  line:38 - There is no tariff with suitable parameters
+2017-06-12 12:46:06 [main] INFO  TariffAction  line:24 - 15
+2017-06-12 12:46:07 [main] INFO  TariffAction  line:34 -
 Tariff name: MORE_CALLS,
 minute price: 0,50,
 message price: 0,20,
@@ -58,9 +58,9 @@ fee: 4,00,
 included minutes: 1000,
 included messages: 500,
 
-2017-06-12 12:46:23 [main] ERROR TariffManager  line:38 - There is no tariff with suitable parameters
-2017-06-12 12:46:23 [main] INFO  TariffManager  line:24 - 15
-2017-06-12 12:46:23 [main] INFO  TariffManager  line:34 - 
+2017-06-12 12:46:23 [main] ERROR TariffAction  line:38 - There is no tariff with suitable parameters
+2017-06-12 12:46:23 [main] INFO  TariffAction  line:24 - 15
+2017-06-12 12:46:23 [main] INFO  TariffAction  line:34 -
 Tariff name: MORE_CALLS,
 minute price: 0,50,
 message price: 0,20,
@@ -68,9 +68,9 @@ fee: 4,00,
 included minutes: 1000,
 included messages: 500,
 
-2017-06-12 12:50:54 [main] ERROR TariffManager  line:38 - There is no tariff with suitable parameters
-2017-06-12 12:50:55 [main] INFO  TariffManager  line:24 - 15
-2017-06-12 12:50:55 [main] INFO  TariffManager  line:34 - 
+2017-06-12 12:50:54 [main] ERROR TariffAction  line:38 - There is no tariff with suitable parameters
+2017-06-12 12:50:55 [main] INFO  TariffAction  line:24 - 15
+2017-06-12 12:50:55 [main] INFO  TariffAction  line:34 -
 Tariff name: MORE_CALLS,
 minute price: 0,50,
 message price: 0,20,
@@ -78,9 +78,9 @@ fee: 4,00,
 included minutes: 1000,
 included messages: 500,
 
-2017-06-12 12:55:02 [main] ERROR TariffManager  line:38 - There is no tariff with suitable parameters
-2017-06-12 12:55:02 [main] INFO  TariffManager  line:24 - 15
-2017-06-12 12:55:02 [main] INFO  TariffManager  line:34 - 
+2017-06-12 12:55:02 [main] ERROR TariffAction  line:38 - There is no tariff with suitable parameters
+2017-06-12 12:55:02 [main] INFO  TariffAction  line:24 - 15
+2017-06-12 12:55:02 [main] INFO  TariffAction  line:34 -
 Tariff name: MORE_CALLS,
 minute price: 0,50,
 message price: 0,20,
@@ -88,9 +88,9 @@ fee: 4,00,
 included minutes: 1000,
 included messages: 500,
 
-2017-06-12 13:01:36 [main] ERROR TariffManager  line:38 - There is no tariff with suitable parameters
-2017-06-12 13:01:36 [main] INFO  TariffManager  line:24 - 15
-2017-06-12 13:01:36 [main] INFO  TariffManager  line:34 - 
+2017-06-12 13:01:36 [main] ERROR TariffAction  line:38 - There is no tariff with suitable parameters
+2017-06-12 13:01:36 [main] INFO  TariffAction  line:24 - 15
+2017-06-12 13:01:36 [main] INFO  TariffAction  line:34 -
 Tariff name: MORE_CALLS,
 minute price: 0,50,
 message price: 0,20,
@@ -98,9 +98,9 @@ fee: 4,00,
 included minutes: 1000,
 included messages: 500,
 
-2017-06-12 13:06:44 [main] ERROR TariffManager  line:38 - There is no tariff with suitable parameters
-2017-06-12 13:06:44 [main] INFO  TariffManager  line:24 - 15
-2017-06-12 13:06:44 [main] INFO  TariffManager  line:34 - 
+2017-06-12 13:06:44 [main] ERROR TariffAction  line:38 - There is no tariff with suitable parameters
+2017-06-12 13:06:44 [main] INFO  TariffAction  line:24 - 15
+2017-06-12 13:06:44 [main] INFO  TariffAction  line:34 -
 Tariff name: MORE_CALLS,
 minute price: 0,50,
 message price: 0,20,
@@ -108,9 +108,9 @@ fee: 4,00,
 included minutes: 1000,
 included messages: 500,
 
-2017-06-12 13:09:46 [main] ERROR TariffManager  line:38 - There is no tariff with suitable parameters
-2017-06-12 13:09:46 [main] INFO  TariffManager  line:24 - 15
-2017-06-12 13:09:46 [main] INFO  TariffManager  line:34 - 
+2017-06-12 13:09:46 [main] ERROR TariffAction  line:38 - There is no tariff with suitable parameters
+2017-06-12 13:09:46 [main] INFO  TariffAction  line:24 - 15
+2017-06-12 13:09:46 [main] INFO  TariffAction  line:34 -
 Tariff name: MORE_CALLS,
 minute price: 0,50,
 message price: 0,20,
@@ -118,9 +118,9 @@ fee: 4,00,
 included minutes: 1000,
 included messages: 500,
 
-2017-06-12 13:13:32 [main] ERROR TariffManager  line:38 - There is no tariff with suitable parameters
-2017-06-12 13:13:32 [main] INFO  TariffManager  line:24 - 15
-2017-06-12 13:13:32 [main] INFO  TariffManager  line:34 - 
+2017-06-12 13:13:32 [main] ERROR TariffAction  line:38 - There is no tariff with suitable parameters
+2017-06-12 13:13:32 [main] INFO  TariffAction  line:24 - 15
+2017-06-12 13:13:32 [main] INFO  TariffAction  line:34 -
 Tariff name: MORE_CALLS,
 minute price: 0,50,
 message price: 0,20,
@@ -128,9 +128,9 @@ fee: 4,00,
 included minutes: 1000,
 included messages: 500,
 
-2017-06-12 13:14:31 [main] ERROR TariffManager  line:38 - There is no tariff with suitable parameters
-2017-06-12 13:14:31 [main] INFO  TariffManager  line:24 - 15
-2017-06-12 13:14:32 [main] INFO  TariffManager  line:34 - 
+2017-06-12 13:14:31 [main] ERROR TariffAction  line:38 - There is no tariff with suitable parameters
+2017-06-12 13:14:31 [main] INFO  TariffAction  line:24 - 15
+2017-06-12 13:14:32 [main] INFO  TariffAction  line:34 -
 Tariff name: MORE_CALLS,
 minute price: 0,50,
 message price: 0,20,
@@ -138,9 +138,9 @@ fee: 4,00,
 included minutes: 1000,
 included messages: 500,
 
-2017-06-12 13:15:32 [main] ERROR TariffManager  line:38 - There is no tariff with suitable parameters
-2017-06-12 13:15:32 [main] INFO  TariffManager  line:24 - 15
-2017-06-12 13:15:33 [main] INFO  TariffManager  line:34 - 
+2017-06-12 13:15:32 [main] ERROR TariffAction  line:38 - There is no tariff with suitable parameters
+2017-06-12 13:15:32 [main] INFO  TariffAction  line:24 - 15
+2017-06-12 13:15:33 [main] INFO  TariffAction  line:34 -
 Tariff name: MORE_CALLS,
 minute price: 0,50,
 message price: 0,20,
@@ -148,9 +148,9 @@ fee: 4,00,
 included minutes: 1000,
 included messages: 500,
 
-2017-06-12 13:16:30 [main] ERROR TariffManager  line:38 - There is no tariff with suitable parameters
-2017-06-12 13:16:30 [main] INFO  TariffManager  line:24 - 15
-2017-06-12 13:16:30 [main] INFO  TariffManager  line:34 - 
+2017-06-12 13:16:30 [main] ERROR TariffAction  line:38 - There is no tariff with suitable parameters
+2017-06-12 13:16:30 [main] INFO  TariffAction  line:24 - 15
+2017-06-12 13:16:30 [main] INFO  TariffAction  line:34 -
 Tariff name: MORE_CALLS,
 minute price: 0,50,
 message price: 0,20,
@@ -158,42 +158,42 @@ fee: 4,00,
 included minutes: 1000,
 included messages: 500,
 
-2017-06-12 13:19:36 [main] ERROR TariffManager  line:38 - There is no tariff with suitable parameters
-2017-06-12 13:19:36 [main] INFO  TariffManager  line:24 - 15
-2017-06-12 13:19:36 [main] INFO  TariffManager  line:34 - Tariff{minutePrice=0.5, messagePrice=0.2, connectionPrice=4.0, megabytePrice=0.8, tariffType=MORE_CALLS}
-2017-06-12 13:21:09 [main] ERROR TariffManager  line:38 - There is no tariff with suitable parameters
-2017-06-12 13:21:09 [main] INFO  TariffManager  line:24 - total clients123
-2017-06-12 13:21:09 [main] INFO  TariffManager  line:34 - Tariff{minutePrice=0.5, messagePrice=0.2, connectionPrice=4.0, megabytePrice=0.8, tariffType=MORE_CALLS}
-2017-06-12 13:22:09 [main] ERROR TariffManager  line:38 - There is no tariff with suitable parameters
-2017-06-12 13:22:09 [main] INFO  TariffManager  line:24 - total clients quantity is 15
-2017-06-12 13:22:10 [main] INFO  TariffManager  line:34 - Tariff{minutePrice=0.5, messagePrice=0.2, connectionPrice=4.0, megabytePrice=0.8, tariffType=MORE_CALLS}
-2017-06-12 13:24:10 [main] ERROR TariffManager  line:38 - There is no tariff with suitable parameters
-2017-06-12 13:24:10 [main] INFO  TariffManager  line:24 - total clients quantity is 15
-2017-06-12 13:24:10 [main] INFO  TariffManager  line:34 - Optimal tariff is Tariff{minutePrice=0.5, messagePrice=0.2, connectionPrice=4.0, megabytePrice=0.8, tariffType=MORE_CALLS}
-2017-06-12 13:31:25 [main] ERROR TariffManager  line:38 - There is no tariff with suitable parameters
-2017-06-12 13:31:25 [main] INFO  TariffManager  line:24 - Total clients quantity is 15
-2017-06-12 13:31:25 [main] INFO  TariffManager  line:34 - Optimal tariff is Tariff{minutePrice=0.5, messagePrice=0.2, connectionPrice=4.0, megabytePrice=0.8, tariffType=MORE_CALLS}
-2017-06-12 13:55:23 [main] ERROR TariffManager  line:38 - There is no tariff with suitable parameters
-2017-06-12 13:55:23 [main] INFO  TariffManager  line:24 - Total clients quantity is 15
-2017-06-12 13:55:23 [main] INFO  TariffManager  line:34 - Optimal tariff is Tariff{minutePrice=0.5, messagePrice=0.2, connectionPrice=4.0, megabytePrice=0.8, tariffType=MORE_CALLS}
-2017-06-12 13:56:00 [main] ERROR TariffManager  line:38 - There is no tariff with suitable parameters
-2017-06-12 13:56:00 [main] INFO  TariffManager  line:24 - Total clients quantity is 15
-2017-06-12 13:56:01 [main] INFO  TariffManager  line:34 - Optimal tariff is Tariff{minutePrice=0.5, messagePrice=0.2, connectionPrice=4.0, megabytePrice=0.8, tariffType=MORE_CALLS}
-2017-06-12 13:58:47 [main] ERROR TariffManager  line:38 - There is no tariff with suitable parameters
-2017-06-12 13:58:47 [main] INFO  TariffManager  line:24 - Total clients quantity is 15
-2017-06-12 13:58:47 [main] INFO  TariffManager  line:34 - Optimal tariff is Tariff{minutePrice=0.5, messagePrice=0.2, connectionPrice=4.0, megabytePrice=0.8, tariffType=MORE_CALLS}
-2017-06-12 13:59:03 [main] INFO  TariffManager  line:34 - Optimal tariff is Tariff{minutePrice=0.5, messagePrice=0.2, connectionPrice=4.0, megabytePrice=0.8, tariffType=MORE_CALLS}
-2017-06-12 13:59:50 [main] ERROR TariffManager  line:38 - There is no tariff with suitable parameters
-2017-06-12 13:59:50 [main] INFO  TariffManager  line:24 - Total clients quantity is 15
-2017-06-12 13:59:50 [main] INFO  TariffManager  line:34 - Optimal tariff is Tariff{minutePrice=0.5, messagePrice=0.2, connectionPrice=4.0, megabytePrice=0.8, tariffType=MORE_CALLS}
-2017-06-12 14:00:53 [main] INFO  TariffManager  line:34 - Optimal tariff is IndividualPersonTariff@78e71c49
-2017-06-12 14:01:27 [main] INFO  TariffManager  line:34 - Optimal tariff is IndividualPersonTariff{includedFreeMinutes=1000.0, includedFreeMessages=500.0, includedFreeMegabytes=200.0}
-2017-06-12 14:01:39 [main] ERROR TariffManager  line:38 - There is no tariff with suitable parameters
-2017-06-12 14:01:39 [main] INFO  TariffManager  line:24 - Total clients quantity is 15
-2017-06-12 14:01:40 [main] INFO  TariffManager  line:34 - Optimal tariff is IndividualPersonTariff{includedFreeMinutes=1000.0, includedFreeMessages=500.0, includedFreeMegabytes=200.0}
-2017-06-12 14:26:58 [main] ERROR TariffManager  line:38 - There is no tariff with suitable parameters
-2017-06-12 14:26:58 [main] INFO  TariffManager  line:24 - Total clients quantity is 15
-2017-06-12 14:26:58 [main] INFO  TariffManager  line:34 - Optimal tariff is 
+2017-06-12 13:19:36 [main] ERROR TariffAction  line:38 - There is no tariff with suitable parameters
+2017-06-12 13:19:36 [main] INFO  TariffAction  line:24 - 15
+2017-06-12 13:19:36 [main] INFO  TariffAction  line:34 - Tariff{minutePrice=0.5, messagePrice=0.2, connectionPrice=4.0, megabytePrice=0.8, tariffType=MORE_CALLS}
+2017-06-12 13:21:09 [main] ERROR TariffAction  line:38 - There is no tariff with suitable parameters
+2017-06-12 13:21:09 [main] INFO  TariffAction  line:24 - total clients123
+2017-06-12 13:21:09 [main] INFO  TariffAction  line:34 - Tariff{minutePrice=0.5, messagePrice=0.2, connectionPrice=4.0, megabytePrice=0.8, tariffType=MORE_CALLS}
+2017-06-12 13:22:09 [main] ERROR TariffAction  line:38 - There is no tariff with suitable parameters
+2017-06-12 13:22:09 [main] INFO  TariffAction  line:24 - total clients quantity is 15
+2017-06-12 13:22:10 [main] INFO  TariffAction  line:34 - Tariff{minutePrice=0.5, messagePrice=0.2, connectionPrice=4.0, megabytePrice=0.8, tariffType=MORE_CALLS}
+2017-06-12 13:24:10 [main] ERROR TariffAction  line:38 - There is no tariff with suitable parameters
+2017-06-12 13:24:10 [main] INFO  TariffAction  line:24 - total clients quantity is 15
+2017-06-12 13:24:10 [main] INFO  TariffAction  line:34 - Optimal tariff is Tariff{minutePrice=0.5, messagePrice=0.2, connectionPrice=4.0, megabytePrice=0.8, tariffType=MORE_CALLS}
+2017-06-12 13:31:25 [main] ERROR TariffAction  line:38 - There is no tariff with suitable parameters
+2017-06-12 13:31:25 [main] INFO  TariffAction  line:24 - Total clients quantity is 15
+2017-06-12 13:31:25 [main] INFO  TariffAction  line:34 - Optimal tariff is Tariff{minutePrice=0.5, messagePrice=0.2, connectionPrice=4.0, megabytePrice=0.8, tariffType=MORE_CALLS}
+2017-06-12 13:55:23 [main] ERROR TariffAction  line:38 - There is no tariff with suitable parameters
+2017-06-12 13:55:23 [main] INFO  TariffAction  line:24 - Total clients quantity is 15
+2017-06-12 13:55:23 [main] INFO  TariffAction  line:34 - Optimal tariff is Tariff{minutePrice=0.5, messagePrice=0.2, connectionPrice=4.0, megabytePrice=0.8, tariffType=MORE_CALLS}
+2017-06-12 13:56:00 [main] ERROR TariffAction  line:38 - There is no tariff with suitable parameters
+2017-06-12 13:56:00 [main] INFO  TariffAction  line:24 - Total clients quantity is 15
+2017-06-12 13:56:01 [main] INFO  TariffAction  line:34 - Optimal tariff is Tariff{minutePrice=0.5, messagePrice=0.2, connectionPrice=4.0, megabytePrice=0.8, tariffType=MORE_CALLS}
+2017-06-12 13:58:47 [main] ERROR TariffAction  line:38 - There is no tariff with suitable parameters
+2017-06-12 13:58:47 [main] INFO  TariffAction  line:24 - Total clients quantity is 15
+2017-06-12 13:58:47 [main] INFO  TariffAction  line:34 - Optimal tariff is Tariff{minutePrice=0.5, messagePrice=0.2, connectionPrice=4.0, megabytePrice=0.8, tariffType=MORE_CALLS}
+2017-06-12 13:59:03 [main] INFO  TariffAction  line:34 - Optimal tariff is Tariff{minutePrice=0.5, messagePrice=0.2, connectionPrice=4.0, megabytePrice=0.8, tariffType=MORE_CALLS}
+2017-06-12 13:59:50 [main] ERROR TariffAction  line:38 - There is no tariff with suitable parameters
+2017-06-12 13:59:50 [main] INFO  TariffAction  line:24 - Total clients quantity is 15
+2017-06-12 13:59:50 [main] INFO  TariffAction  line:34 - Optimal tariff is Tariff{minutePrice=0.5, messagePrice=0.2, connectionPrice=4.0, megabytePrice=0.8, tariffType=MORE_CALLS}
+2017-06-12 14:00:53 [main] INFO  TariffAction  line:34 - Optimal tariff is IndividualPersonTariff@78e71c49
+2017-06-12 14:01:27 [main] INFO  TariffAction  line:34 - Optimal tariff is IndividualPersonTariff{includedFreeMinutes=1000.0, includedFreeMessages=500.0, includedFreeMegabytes=200.0}
+2017-06-12 14:01:39 [main] ERROR TariffAction  line:38 - There is no tariff with suitable parameters
+2017-06-12 14:01:39 [main] INFO  TariffAction  line:24 - Total clients quantity is 15
+2017-06-12 14:01:40 [main] INFO  TariffAction  line:34 - Optimal tariff is IndividualPersonTariff{includedFreeMinutes=1000.0, includedFreeMessages=500.0, includedFreeMegabytes=200.0}
+2017-06-12 14:26:58 [main] ERROR TariffAction  line:38 - There is no tariff with suitable parameters
+2017-06-12 14:26:58 [main] INFO  TariffAction  line:24 - Total clients quantity is 15
+2017-06-12 14:26:58 [main] INFO  TariffAction  line:34 - Optimal tariff is
 Tariff name: MORE_CALLS,
 minute price: 0,50,
 message price: 0,20,
@@ -201,9 +201,9 @@ fee: 4,00,
 included minutes: 1000,
 included messages: 500,
 
-2017-06-12 14:27:38 [main] ERROR TariffManager  line:38 - There is no tariff with suitable parameters
-2017-06-12 14:27:38 [main] INFO  TariffManager  line:24 - Total clients quantity is 15
-2017-06-12 14:27:38 [main] INFO  TariffManager  line:34 - Optimal tariff is 
+2017-06-12 14:27:38 [main] ERROR TariffAction  line:38 - There is no tariff with suitable parameters
+2017-06-12 14:27:38 [main] INFO  TariffAction  line:24 - Total clients quantity is 15
+2017-06-12 14:27:38 [main] INFO  TariffAction  line:34 - Optimal tariff is
 Tariff name: MORE_CALLS,
 minute price: 0,50,
 message price: 0,20,
@@ -211,9 +211,9 @@ connection price: 4,00,
 included minutes: 1000,
 included messages: 500,
 
-2017-06-12 14:28:07 [main] ERROR TariffManager  line:38 - There is no tariff with suitable parameters
-2017-06-12 14:28:07 [main] INFO  TariffManager  line:24 - Total clients quantity is 15
-2017-06-12 14:28:07 [main] INFO  TariffManager  line:34 - Optimal tariff is 
+2017-06-12 14:28:07 [main] ERROR TariffAction  line:38 - There is no tariff with suitable parameters
+2017-06-12 14:28:07 [main] INFO  TariffAction  line:24 - Total clients quantity is 15
+2017-06-12 14:28:07 [main] INFO  TariffAction  line:34 - Optimal tariff is
 Tariff name: MORE_CALLS;
 minute price: 0,50,
 message price: 0,20,
@@ -221,9 +221,9 @@ connection price: 4,00,
 included minutes: 1000,
 included messages: 500,
 
-2017-06-12 14:28:49 [main] ERROR TariffManager  line:38 - There is no tariff with suitable parameters
-2017-06-12 14:28:49 [main] INFO  TariffManager  line:24 - Total clients quantity is 15
-2017-06-12 14:28:50 [main] INFO  TariffManager  line:34 - Optimal tariff is 
+2017-06-12 14:28:49 [main] ERROR TariffAction  line:38 - There is no tariff with suitable parameters
+2017-06-12 14:28:49 [main] INFO  TariffAction  line:24 - Total clients quantity is 15
+2017-06-12 14:28:50 [main] INFO  TariffAction  line:34 - Optimal tariff is
 Tariff name: MORE_CALLS
 minute price: 0,50
 message price: 0,20
@@ -231,15 +231,15 @@ connection price: 4,00
 included minutes: 1000
 included messages: 500
 
-2017-06-12 14:31:47 [main] ERROR TariffManager  line:38 - There is no tariff with suitable parameters
-2017-06-12 14:31:47 [main] INFO  TariffManager  line:24 - Total clients quantity is 15
-2017-06-12 14:32:54 [main] ERROR TariffManager  line:38 - There is no tariff with suitable parameters
-2017-06-12 14:32:54 [main] INFO  TariffManager  line:24 - Total clients quantity is 15
-2017-06-12 14:36:31 [main] ERROR TariffManager  line:38 - There is no tariff with suitable parameters
-2017-06-12 14:36:31 [main] INFO  TariffManager  line:24 - Total clients quantity is 15
-2017-06-12 14:48:37 [main] ERROR TariffManager  line:38 - There is no tariff with suitable parameters
-2017-06-12 14:48:37 [main] INFO  TariffManager  line:24 - Total clients quantity is 15
-2017-06-12 14:48:38 [main] INFO  TariffManager  line:34 - Optimal tariff is 
+2017-06-12 14:31:47 [main] ERROR TariffAction  line:38 - There is no tariff with suitable parameters
+2017-06-12 14:31:47 [main] INFO  TariffAction  line:24 - Total clients quantity is 15
+2017-06-12 14:32:54 [main] ERROR TariffAction  line:38 - There is no tariff with suitable parameters
+2017-06-12 14:32:54 [main] INFO  TariffAction  line:24 - Total clients quantity is 15
+2017-06-12 14:36:31 [main] ERROR TariffAction  line:38 - There is no tariff with suitable parameters
+2017-06-12 14:36:31 [main] INFO  TariffAction  line:24 - Total clients quantity is 15
+2017-06-12 14:48:37 [main] ERROR TariffAction  line:38 - There is no tariff with suitable parameters
+2017-06-12 14:48:37 [main] INFO  TariffAction  line:24 - Total clients quantity is 15
+2017-06-12 14:48:38 [main] INFO  TariffAction  line:34 - Optimal tariff is
 Tariff name: MORE_CALLS 
 minute price: 0,50,
 message price: 0,20,
@@ -247,9 +247,9 @@ fee: 4,00,
 included minutes: 1000,
 included messages: 500,
 
-2017-06-12 14:49:47 [main] ERROR TariffManager  line:38 - There is no tariff with suitable parameters
-2017-06-12 14:49:47 [main] INFO  TariffManager  line:24 - Total clients quantity is 15
-2017-06-12 14:49:47 [main] INFO  TariffManager  line:34 - Optimal tariff is 
+2017-06-12 14:49:47 [main] ERROR TariffAction  line:38 - There is no tariff with suitable parameters
+2017-06-12 14:49:47 [main] INFO  TariffAction  line:24 - Total clients quantity is 15
+2017-06-12 14:49:47 [main] INFO  TariffAction  line:34 - Optimal tariff is
 Tariff name: MORE_CALLS 
 minute price: 0,50,
 message price: 0,20,
@@ -257,9 +257,9 @@ fee: 4,00,
 included minutes: 1000,
 included messages: 500,
 nincluded free traffic: 200
-2017-06-12 14:51:18 [main] ERROR TariffManager  line:38 - There is no tariff with suitable parameters
-2017-06-12 14:51:18 [main] INFO  TariffManager  line:24 - Total clients quantity is 15
-2017-06-12 14:51:18 [main] INFO  TariffManager  line:34 - Optimal tariff is 
+2017-06-12 14:51:18 [main] ERROR TariffAction  line:38 - There is no tariff with suitable parameters
+2017-06-12 14:51:18 [main] INFO  TariffAction  line:24 - Total clients quantity is 15
+2017-06-12 14:51:18 [main] INFO  TariffAction  line:34 - Optimal tariff is
 Tariff name: MORE_CALLS 
 minute price: 0,50 
 message price: 0,20 
@@ -267,9 +267,9 @@ price for connection: 4,00
 included free minutes: 1000 
 included free messages: 500 
 included free traffic: 200
-2017-06-12 14:52:18 [main] ERROR TariffManager  line:38 - There is no tariff with suitable parameters
-2017-06-12 14:52:18 [main] INFO  TariffManager  line:24 - Total clients quantity is 15
-2017-06-12 14:52:18 [main] INFO  TariffManager  line:34 - Optimal tariff is 
+2017-06-12 14:52:18 [main] ERROR TariffAction  line:38 - There is no tariff with suitable parameters
+2017-06-12 14:52:18 [main] INFO  TariffAction  line:24 - Total clients quantity is 15
+2017-06-12 14:52:18 [main] INFO  TariffAction  line:34 - Optimal tariff is
 Tariff name: MORE_CALLS 
 price per minute: 0,50 
 price per message: 0,20 
@@ -277,9 +277,9 @@ price for connection: 4,00
 included free minutes: 1000 
 included free messages: 500 
 included free traffic: 200
-2017-06-12 14:54:59 [main] ERROR TariffManager  line:38 - There is no tariff with suitable parameters
-2017-06-12 14:54:59 [main] INFO  TariffManager  line:24 - Total clients quantity is 15
-2017-06-12 14:54:59 [main] INFO  TariffManager  line:34 - Optimal tariff is 
+2017-06-12 14:54:59 [main] ERROR TariffAction  line:38 - There is no tariff with suitable parameters
+2017-06-12 14:54:59 [main] INFO  TariffAction  line:24 - Total clients quantity is 15
+2017-06-12 14:54:59 [main] INFO  TariffAction  line:34 - Optimal tariff is
 Tariff name: MORE_CALLS 
 price per minute: 0,50 
 price per message: 0,20 
@@ -287,27 +287,27 @@ price for connection: 4,00
 included free minutes: 1000 
 included free messages: 500 
 included free traffic: 200
-2017-06-12 21:01:21 [main] ERROR TariffManager  line:38 - There is no tariff with suitable parameters
-2017-06-12 21:01:21 [main] INFO  TariffManager  line:24 - Total clients quantity is 15
-2017-06-12 21:01:22 [main] ERROR TariffManager  line:38 - There is no tariff with suitable parameters
-2017-06-12 21:18:11 [main] ERROR TariffManager  line:38 - There is no tariff with suitable parameters
-2017-06-12 21:18:11 [main] INFO  TariffManager  line:24 - Total clients quantity is 15
-2017-06-12 21:21:19 [main] ERROR TariffManager  line:38 - There is no tariff with suitable parameters
-2017-06-12 21:21:19 [main] INFO  TariffManager  line:24 - Total clients quantity is 15
-2017-06-12 21:27:12 [main] ERROR TariffManager  line:38 - There is no tariff with suitable parameters
-2017-06-12 21:27:12 [main] INFO  TariffManager  line:24 - Total clients quantity is 15
-2017-06-12 21:27:31 [main] INFO  TariffManager  line:24 - Total clients quantity is 15
-2017-06-12 21:27:53 [main] INFO  TariffManager  line:24 - Total clients quantity is 15
-2017-06-12 21:28:10 [main] ERROR TariffManager  line:38 - There is no tariff with suitable parameters
-2017-06-12 21:28:10 [main] INFO  TariffManager  line:24 - Total clients quantity is 15
-2017-06-12 21:32:59 [main] ERROR TariffManager  line:38 - There is no tariff with suitable parameters
-2017-06-12 21:32:59 [main] INFO  TariffManager  line:24 - Total clients quantity is 15
-2017-06-12 21:36:32 [main] INFO  TariffManager  line:24 - Total clients quantity is 15
-2017-06-12 21:36:47 [main] INFO  TariffManager  line:24 - Total clients quantity is 15
-2017-06-12 21:41:00 [main] INFO  TariffManager  line:24 - Total clients quantity is 15
-2017-06-12 21:44:55 [main] INFO  TariffManager  line:24 - Total clients quantity is 15
-2017-06-12 21:48:57 [main] INFO  TariffManager  line:24 - Total clients quantity is 15
-2017-06-12 21:48:57 [main] INFO  TariffManager  line:34 - Optimal tariff is 
+2017-06-12 21:01:21 [main] ERROR TariffAction  line:38 - There is no tariff with suitable parameters
+2017-06-12 21:01:21 [main] INFO  TariffAction  line:24 - Total clients quantity is 15
+2017-06-12 21:01:22 [main] ERROR TariffAction  line:38 - There is no tariff with suitable parameters
+2017-06-12 21:18:11 [main] ERROR TariffAction  line:38 - There is no tariff with suitable parameters
+2017-06-12 21:18:11 [main] INFO  TariffAction  line:24 - Total clients quantity is 15
+2017-06-12 21:21:19 [main] ERROR TariffAction  line:38 - There is no tariff with suitable parameters
+2017-06-12 21:21:19 [main] INFO  TariffAction  line:24 - Total clients quantity is 15
+2017-06-12 21:27:12 [main] ERROR TariffAction  line:38 - There is no tariff with suitable parameters
+2017-06-12 21:27:12 [main] INFO  TariffAction  line:24 - Total clients quantity is 15
+2017-06-12 21:27:31 [main] INFO  TariffAction  line:24 - Total clients quantity is 15
+2017-06-12 21:27:53 [main] INFO  TariffAction  line:24 - Total clients quantity is 15
+2017-06-12 21:28:10 [main] ERROR TariffAction  line:38 - There is no tariff with suitable parameters
+2017-06-12 21:28:10 [main] INFO  TariffAction  line:24 - Total clients quantity is 15
+2017-06-12 21:32:59 [main] ERROR TariffAction  line:38 - There is no tariff with suitable parameters
+2017-06-12 21:32:59 [main] INFO  TariffAction  line:24 - Total clients quantity is 15
+2017-06-12 21:36:32 [main] INFO  TariffAction  line:24 - Total clients quantity is 15
+2017-06-12 21:36:47 [main] INFO  TariffAction  line:24 - Total clients quantity is 15
+2017-06-12 21:41:00 [main] INFO  TariffAction  line:24 - Total clients quantity is 15
+2017-06-12 21:44:55 [main] INFO  TariffAction  line:24 - Total clients quantity is 15
+2017-06-12 21:48:57 [main] INFO  TariffAction  line:24 - Total clients quantity is 15
+2017-06-12 21:48:57 [main] INFO  TariffAction  line:34 - Optimal tariff is
 Tariff name: MORE_CALLS 
 price per minute: 1 
 price per message: 2 
@@ -340,8 +340,8 @@ included free traffic: 200
 2017-06-12 23:55:00 [main] WARN  InputDataValidator  line:16 - Invalid line: dfhff5555
 2017-06-12 23:55:00 [main] WARN  InputDataValidator  line:16 - Invalid line: corporate international_business 200 0 0 0 1200 600 16000 delloite
 2017-06-12 23:56:00 [main] WARN  InputDataValidator  line:16 - Invalid line: dfhff5555
-2017-06-13 00:07:58 [main] INFO  TariffManager  line:24 - Total clients quantity is 15
-2017-06-13 00:07:58 [main] INFO  TariffManager  line:34 - Optimal tariff is 
+2017-06-13 00:07:58 [main] INFO  TariffAction  line:24 - Total clients quantity is 15
+2017-06-13 00:07:58 [main] INFO  TariffAction  line:34 - Optimal tariff is
 Tariff name: MORE_TRAFFIC 
 price per minute: 3 
 price per message: 5 
@@ -350,8 +350,8 @@ included free minutes: 200
 included free messages: 50 
 included free traffic: 2048
 2017-06-13 00:07:58 [main] WARN  InputDataValidator  line:16 - Invalid line: dfhff5555
-2017-06-13 00:10:57 [main] INFO  TariffManager  line:24 - Total clients quantity is 15
-2017-06-13 00:10:57 [main] INFO  TariffManager  line:34 - Optimal tariff is 
+2017-06-13 00:10:57 [main] INFO  TariffAction  line:24 - Total clients quantity is 15
+2017-06-13 00:10:57 [main] INFO  TariffAction  line:34 - Optimal tariff is
 Tariff name: MORE_TRAFFIC 
 price per minute: 3 
 price per message: 5 
@@ -360,8 +360,8 @@ included free minutes: 200
 included free messages: 50 
 included free traffic: 2048
 2017-06-13 00:10:57 [main] WARN  InputDataValidator  line:16 - Invalid line: dfhff5555
-2017-06-13 00:12:38 [main] INFO  TariffManager  line:24 - Total clients quantity is 15
-2017-06-13 00:12:38 [main] INFO  TariffManager  line:34 - Optimal tariff is 
+2017-06-13 00:12:38 [main] INFO  TariffAction  line:24 - Total clients quantity is 15
+2017-06-13 00:12:38 [main] INFO  TariffAction  line:34 - Optimal tariff is
 Tariff name: MORE_TRAFFIC 
 price per minute: 3 
 price per message: 5 
@@ -370,8 +370,8 @@ included free minutes: 200
 included free messages: 50 
 included free traffic: 2048
 2017-06-13 00:12:38 [main] WARN  InputDataValidator  line:16 - Invalid line: dfhff5555
-2017-06-13 00:13:14 [main] INFO  TariffManager  line:24 - Total clients quantity is 15
-2017-06-13 00:13:14 [main] INFO  TariffManager  line:34 - Optimal tariff is 
+2017-06-13 00:13:14 [main] INFO  TariffAction  line:24 - Total clients quantity is 15
+2017-06-13 00:13:14 [main] INFO  TariffAction  line:34 - Optimal tariff is
 Tariff name: MORE_TRAFFIC 
 price per minute: 3 
 price per message: 5 
@@ -379,8 +379,8 @@ price for connection: 2
 included free minutes: 200 
 included free messages: 50 
 included free traffic: 2048
-2017-06-13 00:26:12 [main] INFO  TariffManager  line:24 - Total clients quantity is 15
-2017-06-13 00:26:12 [main] INFO  TariffManager  line:34 - Optimal tariff is 
+2017-06-13 00:26:12 [main] INFO  TariffAction  line:24 - Total clients quantity is 15
+2017-06-13 00:26:12 [main] INFO  TariffAction  line:34 - Optimal tariff is
 Tariff name: MORE_TRAFFIC 
 price per minute: 3 
 price per message: 5 
@@ -388,8 +388,8 @@ price for connection: 2
 included free minutes: 200 
 included free messages: 50 
 included free traffic: 2048
-2017-06-13 00:29:53 [main] INFO  TariffManager  line:24 - Total clients quantity is 15
-2017-06-13 00:29:53 [main] INFO  TariffManager  line:34 - Optimal tariff is 
+2017-06-13 00:29:53 [main] INFO  TariffAction  line:24 - Total clients quantity is 15
+2017-06-13 00:29:53 [main] INFO  TariffAction  line:34 - Optimal tariff is
 Tariff name: MORE_TRAFFIC 
 price per minute: 3 
 price per message: 5 
@@ -397,13 +397,13 @@ price for connection: 2
 included free minutes: 200 
 included free messages: 50 
 included free traffic: 2048
-2017-06-13 00:32:27 [main] INFO  TariffManager  line:24 - Total clients quantity is 15
-2017-06-13 00:33:55 [main] INFO  TariffManager  line:24 - Total clients quantity is 15
+2017-06-13 00:32:27 [main] INFO  TariffAction  line:24 - Total clients quantity is 15
+2017-06-13 00:33:55 [main] INFO  TariffAction  line:24 - Total clients quantity is 15
 2017-06-13 00:33:55 [main] WARN  InputDataValidator  line:16 - Invalid line: dfhff5555
-2017-06-13 00:35:57 [main] INFO  TariffManager  line:24 - Total clients quantity is 15
-2017-06-13 00:37:14 [main] INFO  TariffManager  line:24 - Total clients quantity is 15
-2017-06-13 00:41:25 [main] INFO  TariffManager  line:24 - Total clients quantity is 15
-2017-06-13 00:41:39 [main] INFO  TariffManager  line:34 - Optimal tariff is 
+2017-06-13 00:35:57 [main] INFO  TariffAction  line:24 - Total clients quantity is 15
+2017-06-13 00:37:14 [main] INFO  TariffAction  line:24 - Total clients quantity is 15
+2017-06-13 00:41:25 [main] INFO  TariffAction  line:24 - Total clients quantity is 15
+2017-06-13 00:41:39 [main] INFO  TariffAction  line:34 - Optimal tariff is
 Tariff name: MORE_TRAFFIC 
 price per minute: 3 
 price per message: 5 
@@ -411,8 +411,8 @@ price for connection: 2
 included free minutes: 200 
 included free messages: 50 
 included free traffic: 2048
-2017-06-13 00:42:08 [main] INFO  TariffManager  line:24 - Total clients quantity is 15
-2017-06-13 00:42:08 [main] INFO  TariffManager  line:34 - Optimal tariff is 
+2017-06-13 00:42:08 [main] INFO  TariffAction  line:24 - Total clients quantity is 15
+2017-06-13 00:42:08 [main] INFO  TariffAction  line:34 - Optimal tariff is
 Tariff name: MIXED 
 price per minute: 7 
 price per message: 3 
@@ -420,14 +420,14 @@ price for connection: 5
 included free minutes: 500 
 included free messages: 100 
 included free traffic: 600
-2017-06-13 00:49:40 [main] INFO  TariffManager  line:24 - Total clients quantity is 15
-2017-06-13 00:49:52 [main] INFO  TariffManager  line:24 - Total clients quantity is 15
-2017-06-13 01:06:46 [main] INFO  TariffManager  line:24 - Total clients quantity is 15
-2017-06-13 01:16:21 [main] INFO  TariffManager  line:24 - Total clients quantity is 15
-2017-06-13 01:16:39 [main] INFO  TariffManager  line:24 - Total clients quantity is 15
-2017-06-13 01:19:25 [main] INFO  TariffManager  line:24 - Total clients quantity is 15
-2017-06-13 01:19:33 [main] INFO  TariffManager  line:24 - Total clients quantity is 15
-2017-06-13 01:20:16 [main] INFO  TariffManager  line:34 - Optimal tariff is 
+2017-06-13 00:49:40 [main] INFO  TariffAction  line:24 - Total clients quantity is 15
+2017-06-13 00:49:52 [main] INFO  TariffAction  line:24 - Total clients quantity is 15
+2017-06-13 01:06:46 [main] INFO  TariffAction  line:24 - Total clients quantity is 15
+2017-06-13 01:16:21 [main] INFO  TariffAction  line:24 - Total clients quantity is 15
+2017-06-13 01:16:39 [main] INFO  TariffAction  line:24 - Total clients quantity is 15
+2017-06-13 01:19:25 [main] INFO  TariffAction  line:24 - Total clients quantity is 15
+2017-06-13 01:19:33 [main] INFO  TariffAction  line:24 - Total clients quantity is 15
+2017-06-13 01:20:16 [main] INFO  TariffAction  line:34 - Optimal tariff is
 Tariff name: MIXED 
 price per minute: 7 
 price per message: 3 
@@ -435,4 +435,4 @@ price for connection: 5
 included free minutes: 500 
 included free messages: 100 
 included free traffic: 600
-2017-06-13 01:20:44 [main] INFO  TariffManager  line:24 - Total clients quantity is 15
+2017-06-13 01:20:44 [main] INFO  TariffAction  line:24 - Total clients quantity is 15

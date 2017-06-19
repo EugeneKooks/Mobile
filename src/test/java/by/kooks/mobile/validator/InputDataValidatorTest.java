@@ -1,3 +1,5 @@
+package by.kooks.mobile.validator;
+
 import org.junit.Assert;
 import org.junit.Test;
 
@@ -5,16 +7,14 @@ import org.junit.Test;
 public class InputDataValidatorTest {
 
     private InputDataValidator validator = new InputDataValidator();
-
     @Test
-    public void correctLine() throws Exception {
-        String line = "corporate international_business 200 0 0 0 1200 600 16000 delloite";
-        Assert.assertTrue(validator.validator(line));
+    public void correctInputData(){
+        String data = "corporate international_business 200 0 0 0 1200 600 16000 delloite";
+        Assert.assertTrue(validator.validator(data));
     }
-
     @Test
-    public void inCorrectLine() throws Exception {
-        String line = "dfhff5555";
-        Assert.assertFalse(validator.validator(line));
+    public void inCorrectInputData(){
+        String data = "uiuytuytur666666666";
+        Assert.assertFalse(validator.validator(data));
     }
 }

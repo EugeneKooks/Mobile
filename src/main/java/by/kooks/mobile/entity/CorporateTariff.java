@@ -1,3 +1,5 @@
+package by.kooks.mobile.entity;
+
 public class CorporateTariff extends AbstractMobileTariff {
     private int includedFreeMinutes;
     private int includedFreeMessages;
@@ -51,7 +53,7 @@ public class CorporateTariff extends AbstractMobileTariff {
 
     @Override
     public String toString() {
-        return String.format("%nTariff name: %s %nprice per minute: %d %nprice per message: %d %nprice for connection: %d %n" +
-                        "included free minutes: %d %nincluded free messages: %d %nincluded free traffic: %d %owner is: %d", getTariffType(), getMinutePrice(),
-                getMessagePrice(), getSubscriptionPrice(), includedFreeMinutes, includedFreeMessages,includedFreeMegabytes,owner);
+        return String.format("%nTariff name: %s %nprice for subscription: %d %nprice per minute: %d %nprice per message: %d %nprice per megabyte: %d %n" +
+                        "included free minutes: %d %nincluded free messages: %d %nincluded free traffic: %d %nowner is: %s", getTariffType(), getSubscriptionPrice(), getMinutePrice(),
+                getMessagePrice(),getMegabytePrice(), includedFreeMinutes, includedFreeMessages,includedFreeMegabytes,owner);
 }}

@@ -1,10 +1,12 @@
+package by.kooks.mobile.entity;
+
 public abstract class AbstractMobileTariff {
     private TariffType tariffType;
     private int minutePrice;
     private int messagePrice;
     private int subscriptionPrice;
     private int megabytePrice;
-    AbstractMobileTariff(TariffType tariffType , int minutePrice, int messagePrice, int subscriptionPrice, int
+    AbstractMobileTariff(TariffType tariffType ,int subscriptionPrice, int minutePrice, int messagePrice, int
             megabytePrice) {
         this.tariffType = tariffType;
         this.minutePrice = minutePrice;
@@ -12,8 +14,8 @@ public abstract class AbstractMobileTariff {
         this.subscriptionPrice = subscriptionPrice;
         this.megabytePrice = megabytePrice;
     }
-    public TariffType getTariffType() {
-        return tariffType;
+    public String getTariffType() {
+        return String.valueOf(tariffType);
     }
     public int getMinutePrice(){
         return minutePrice;
@@ -52,3 +54,4 @@ public abstract class AbstractMobileTariff {
         return result;
     }
 }
+

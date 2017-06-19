@@ -1,11 +1,16 @@
-import org.junit.AfterClass;
-import org.junit.Assert;
-import org.junit.BeforeClass;
-import org.junit.Test;
+package by.kooks.mobile.action;
+
+import by.kooks.mobile.comparator.CallsLowestPriceComparator;
+import by.kooks.mobile.comparator.TrafficLowestPriceComparator;
+import by.kooks.mobile.entity.*;
+import com.sun.media.sound.InvalidDataException;
+import org.junit.*;
+import org.junit.rules.ExpectedException;
+
 import java.util.ArrayList;
 import java.util.List;
 
-    public class TariffManagerTest {
+    public class TariffActionTest {
 
         private static MobileOperator mobileOperator;
 
@@ -40,19 +45,28 @@ import java.util.List;
         }
         @Test
         public void  calculateClientsTest(){
-            TariffManager manager = new TariffManager(mobileOperator);
+            TariffAction manager = new TariffAction(mobileOperator);
             Assert.assertEquals(15,manager.calculateClients());
         }
-
+        @Rule
+        public ExpectedException thrown = ExpectedException.none();
+        @Test
+        public void searchOptimalTariffNegative() throws InvalidDataException {
+            TariffAction manager = new TariffAction(mobileOperator);
+            thrown.expect(InvalidDataException.class);
+            thrown.expectMessage("Company doesn't have a tariff with such parameters");
+            manager.searchOptimalTariff(0,0);
+        }
         @Test
         public void sortTariffsTest(){
-            List<AbstractMobileTariff> unsortedTariffs = new ArrayList<>(mobileOperator.getTariffs());
-            TariffManager manager = new TariffManager(mobileOperator);
+            List<AbstractMobileTariff> unsortedTariffs = new ArrayList<>(mobileOperator.getAllTariffs());
+            TariffAction manager = new TariffAction(mobileOperator);
             CallsLowestPriceComparator callsLowestPrice = new CallsLowestPriceComparator();
             TrafficLowestPriceComparator trafficLowestPrice = new TrafficLowestPriceComparator();
-            SubscriptionLowestPriceComparator connectionLowestPrice = new SubscriptionLowestPriceComparator();
-            manager.sortTariffs(trafficLowestPrice,callsLowestPrice,connectionLowestPrice);
-            Assert.assertNotEquals(unsortedTariffs,manager.getMobileOperator().getTariffs());
+            manager.sortTariffs(callsLowestPrice,trafficLowestPrice);
+            System.out.println(mobileOperator.getAllTariffs().toString());
+
+            Assert.assertNotEquals(unsortedTariffs,manager.getMobileOperator().getAllTariffs());
         }
     }
 

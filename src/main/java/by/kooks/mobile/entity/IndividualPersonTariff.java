@@ -1,10 +1,12 @@
+package by.kooks.mobile.entity;
+
 public class IndividualPersonTariff extends AbstractMobileTariff {
     private int includedFreeMinutes;
     private int includedFreeMessages;
     private int includedFreeMegabytes;
 
-    public IndividualPersonTariff(TariffType tariffType, int subscriptionFee,int minutePrice, int
-            megabytePrice,int messagePrice,  int includedFreeMinutes, int includedFreeMessages, int includedFreeMegabytes) {
+    public IndividualPersonTariff(TariffType tariffType, int subscriptionFee, int minutePrice, int
+            megabytePrice, int messagePrice, int includedFreeMinutes, int includedFreeMessages, int includedFreeMegabytes) {
         super(tariffType, subscriptionFee,minutePrice, messagePrice,  megabytePrice);
         this.includedFreeMinutes = includedFreeMinutes;
         this.includedFreeMessages = includedFreeMessages;
@@ -44,12 +46,11 @@ public class IndividualPersonTariff extends AbstractMobileTariff {
         result = 31 * result + getIncludedFreeMegabytes();
         return result;
     }
-
     @Override
     public String toString() {
-        return String.format("%nTariff name: %s %nprice per minute: %d %nprice per message: %d %nprice for connection: %d %n" +
-                        "included free minutes: %d %nincluded free messages: %d %nincluded free traffic: %d", getTariffType(), getMinutePrice(),
-                getMessagePrice(), getSubscriptionPrice(), includedFreeMinutes, includedFreeMessages,includedFreeMegabytes);
+        return String.format("%nTariff name: %s  %nprice for subscription: %d %nprice per minute: %d %nprice per message: %d %nprice per megabyte: %d" +
+                        "%nincluded free minutes: %d %nincluded free messages: %d %nincluded free traffic: %d", getTariffType(), getSubscriptionPrice(), getMinutePrice(),
+                getMessagePrice(),getMegabytePrice(), includedFreeMinutes, includedFreeMessages,includedFreeMegabytes);
     }
     }
 

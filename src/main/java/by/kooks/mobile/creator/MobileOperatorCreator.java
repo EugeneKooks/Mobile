@@ -1,3 +1,10 @@
+package by.kooks.mobile.creator;
+
+import by.kooks.mobile.entity.AbstractMobileTariff;
+import by.kooks.mobile.entity.MobileOperator;
+import by.kooks.mobile.factory.CorporateTariffFactory;
+import by.kooks.mobile.factory.IndividualPersonTariffFactory;
+
 import java.util.ArrayList;
 
 public class MobileOperatorCreator {

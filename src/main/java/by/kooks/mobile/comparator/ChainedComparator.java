@@ -1,3 +1,5 @@
+package by.kooks.mobile.comparator;
+
 import java.util.Comparator;
 
 public class ChainedComparator<T> {
